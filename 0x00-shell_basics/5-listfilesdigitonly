@@ -1,4 +1,3 @@
 #!/bin/bash
-ls -la
-ls -l
-id -u
+ls -la ls -l id -u
+
